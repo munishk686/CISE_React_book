@@ -1,5 +1,5 @@
 {
     "mongoURI":
-      "mongodb+srv://admin:admin@cluster1.psbmbzb.mongodb.net/bookcurd?retryWrites=true&w=majority"
+      "mongodb+srv://admin:admin@cluster1.psbmbzb.mongodb.net/test?retryWrites=true&w=majority"
 
   }
