@@ -2,7 +2,7 @@ name: CI_action
 
 on:
     push:
-        branches: [main]
+        branches: [main/cise_ass1a_worksheet3_backend]
     pull_request:
         branches: [main]    
 
